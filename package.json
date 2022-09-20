@@ -1,0 +1,23 @@
+{
+  "name": "api-brewmeister",
+  "version": "1.0.0",
+  "description": "API for brewmeister app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tfettig22/BrewMeister-API.git"
+  },
+  "author": "Tom Fettig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tfettig22/BrewMeister-API/issues"
+  },
+  "homepage": "https://github.com/tfettig22/BrewMeister-API#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
